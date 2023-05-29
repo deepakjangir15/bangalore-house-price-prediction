@@ -27,13 +27,13 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/bangalore-house-price-predictor.git
+https://github.com/deepakjangir15/bangalore-house-price-prediction.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd bangalore-house-price-predictor
+cd bangalore-house-price-prediction
 ```
 
 3. Open the Jupyter Notebook:
